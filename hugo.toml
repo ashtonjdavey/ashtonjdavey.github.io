@@ -8,7 +8,7 @@ preserveTaxonomyNames = true
   pagerSize = 5
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/hero-italy.jpg"
   SEOTitle = "Dellinger Davey Blog"
   description = "Personal blog"
   slogan = "TODO: your tagline here"
@@ -22,7 +22,7 @@ preserveTaxonomyNames = true
   algolia_search = false
 
   # Sidebar settings
-  sidebar_about_description = "TODO: one-line bio for the sidebar"
+  sidebar_about_description = "PhD student in Biomedical Informatics, CCHMC & University of Cincinnati"
   sidebar_avatar = "img/avatar.jpg"
 
   featured_tags = true

@@ -5,7 +5,8 @@ multilingual: true
 
 ## About Me
 
-TODO: write your own bio here. A few prompts to get started:
-- Who are you, what do you do?
-- What is this blog about / why did you start it?
-- Where can people find/contact you?
+I'm a PhD student in Biomedical Informatics at Cincinnati Children's Hospital Medical Center (CCHMC) and the University of Cincinnati. I graduated from Northern Kentucky University with a BS in Data Science.
+
+I've volunteered with VEX Robotics in Kentucky and Cincinnati as an Event Partner and Head Referee.
+
+Outside of research, I enjoy aquariums, baseball, 3D printing, 5-fret rhythm games, and blaster tag.
